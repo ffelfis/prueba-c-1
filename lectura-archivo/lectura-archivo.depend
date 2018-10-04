@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1538681558 source:c:\users\cian\documents\github\prueba-c-1\lectura-archivo\main.c
+	<stdio.h>
+	<stdlib.h>
+

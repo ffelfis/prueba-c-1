@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538941335 source:c:\users\cian\documents\github\prueba-c-1\comp_string\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
